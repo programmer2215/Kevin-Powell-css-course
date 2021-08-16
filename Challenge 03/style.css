@@ -1,0 +1,25 @@
+.container{
+    margin:  0 auto;
+    background: #23424A;
+    height: 60vh;
+    width: 95%;
+    
+}
+.inner-content-head{
+    color: #ffffff;
+    padding: 4%;
+    font-family: "Roboto";
+    font-weight: 900;
+    font-size: 48px;
+    width : 50%;
+    max-width: 750px
+}
+.inner-content{
+    color: #ffffff;
+    padding: 4%;
+    font-family: "Roboto";
+    font-size: 21px;
+    font-weight: 400;
+    width : 50%;
+    max-width: 750px
+}
